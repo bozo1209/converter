@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="jednostka_cale">cale</string>
+    <string name="jednostka_cm">cm</string>
+    <string name="button_convert">CONVERT</string>
+    <string name="menuSettings">Settings</string>
+    <string name="unitsToConvert">units to convert</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="pls_enter_value">Please enter a value</string>
+    <string name="clear">CLEAR</string>
+    <string name="pls_select_unit">Please select unit to convert</string>
+    <string name="empty_string"> </string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="values_from_to_convert">
+        <item> </item>
+        <item>cm to inch</item>
+        <item>inch to cm</item>
+        <item>cm to feet</item>
+        <item>feet to cm</item>
+        <item>cm to yard</item>
+        <item>yard to cm</item>
+    </string-array>
+</resources>
